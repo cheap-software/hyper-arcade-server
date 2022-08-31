@@ -1,1 +1,1 @@
-# hyper-arcade-server
+# Hyper Arcade Server
